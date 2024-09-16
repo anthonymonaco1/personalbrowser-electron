@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Mandali&display=swap');
+
+.icon-default {
+  filter: invert(100%);
+}
+
+.icon-selected {
+  filter: none;
+}
+
+.icon-unfilled {
+  filter: brightness(0) invert(1); /* This will invert the colors, simulating a 'fill' effect */
+}

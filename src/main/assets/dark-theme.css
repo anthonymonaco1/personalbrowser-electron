@@ -1,0 +1,100 @@
+/* dark-theme.css */
+
+/* Apply dark background to the body */
+body {
+    background-color: #303030 !important;
+    color: #717171 !important;
+}
+
+.EIlDfe {
+    background-color: #303030 ! important;
+}
+
+/* Override link colors */
+a {
+    color: #bb86fc !important;
+}
+
+/* Override specific Google Calendar elements */
+header {
+    background-color: #303030 !important;
+    color: #d4d4d4 !important;
+}
+
+header, .navbar, .toolbar {
+    background-color: #303030 !important;
+    color: #d4d4d4 !important;
+}
+
+/* Calendar grid */
+[role="main"] {
+    background-color: #303030 !important;
+}
+
+/* Event colors */
+.event {
+    background-color: #333333 !important;
+    border-color: #444444 !important;
+    color: #ffffff !important;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #303030 !important;
+    color: #e0e0e0 !important;
+}
+
+/* Buttons */
+button {
+    background-color: #333333 !important;
+}
+
+.j9Fkxf:not(:disabled) {
+    color: #1a73e8 ! important
+}
+
+/* Add more selectors as needed based on Google Calendar's DOM */
+
+.UyW9db {
+    color: #d4d4d4 ! important;
+}
+
+.DaQ2rc.KKjvXb .Oxnkef, .cAYGed.KKjvXb .Ioup7e, .Rj2Mlf:not(:disabled) {
+    color: #2e70c5;
+}
+
+.belXNd {
+    color: #5f6368;
+}
+
+.pbeTDb {
+    background-color: #303030 ! important;
+}
+
+.R6TFwe {
+    background-color: #303030 ! important;
+}
+
+.uEzZIb::-webkit-scrollbar-thumb, .mDPmMe::-webkit-scrollbar-thumb {
+    border-color: #303030 ! important;
+}
+
+.sS0sZd {
+    background-color: #303030 ! important;
+}
+
+.gZ8fdb.F262Ye {
+    background-color: #303030 ! important;
+}
+
+.NkK3Fc span[role=heading] {
+    color: #d4d4d4 ! important;
+}
+
+.toUqff {
+    color: #d4d4d4 ! important
+}
+
+.sVASAd.N4XV7d {
+    color: #d4d4d4 ! important
+}
