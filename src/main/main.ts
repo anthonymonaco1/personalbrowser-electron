@@ -99,6 +99,7 @@ const createWindow = async () => {
         : path.join(__dirname, '../../.erb/dll/preload.js'),
       webviewTag: true, // Enable the <webview> tag
       contextIsolation: true,
+      nodeIntegration: false,
     },
   });
 
