@@ -205,7 +205,7 @@
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
-      "dist",
+      "dist/**/*",
       "node_modules",
       "package.json"
     ],
