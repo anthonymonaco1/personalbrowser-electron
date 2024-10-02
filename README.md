@@ -98,6 +98,10 @@ This will start both the Electron main process and the React development server.
 └── webpack.config.js
 ```
 
+## Example dashboard
+
+![Example dashboard](./screenshot.png "Example dashboard")
+
 ## License
 
 This project is open-source and available under the MIT License.
